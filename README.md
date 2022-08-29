@@ -3,9 +3,6 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
 
-[![Unviray's github stats](https://github-readme-stats.vercel.app/api?username=Unviray&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unviray&hide=Makefile)](https://github.com/anuraghazra/github-readme-stats)
-
 Happy Coding! 😊
 
 <div align="center">
